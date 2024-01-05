@@ -1,0 +1,25 @@
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Tong { 
+     background-color: darksalmon;
+    padding: 20px ;
+    width: 600px;
+    margin: 0mm;
+}
+.image-text{ 
+    display: flex;
+    flex-direction: row;
+}
+.anh-avt { 
+    border-radius: 50%;
+}
+.anh-nen{ 
+    position: relative;
+    z-index: 2 ;
+    
+}
+
+

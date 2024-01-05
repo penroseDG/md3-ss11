@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: auto;
+    box-sizing: border-box;
+}
+.service{ 
+    display: flex;
+    gap: 10px;
+    font: 30px;
+    justify-content: flex-end;
+
+}
+.header{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10%;
+}
+.Tong{
+    margin: 15px;
+    padding: 50px;
+    width: 600px;
+    background-color: pink; 
+}
+.Than{
+    display: flex;
+    align-items: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+}
+.text{
+    font-size: 10px;
+}
+li{
+    list-style: none ;
+
+}
